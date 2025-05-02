@@ -4,12 +4,6 @@ A simple and responsive web app built with **HTML, CSS, JavaScript**, and **Boot
 
 ---
 
-##  Preview
-
-![Weather Dashboard Screenshot](screenshot.png) <!-- Optional: Add a real screenshot here -->
-
----
-
 ##  Features
 
 - Search weather by city name
