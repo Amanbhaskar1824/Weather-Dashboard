@@ -30,7 +30,7 @@ A simple and responsive web app built with **HTML, CSS, JavaScript**, and **Boot
 - Sign up at [OpenWeatherMap](https://openweathermap.org/api)
 - Navigate to **API Keys** and copy your API key
 
-### 🖥️ 2. Clone the Repository
+###  2. Clone the Repository
 
 ```bash
 git clone https://github.com/your-username/weather-dashboard.git
